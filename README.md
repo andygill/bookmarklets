@@ -8,6 +8,8 @@ Install polyfill to convert the non-standard output of the Moga Mega controller 
 
  * Moga Pro Controller http://www.mogaanywhere.com/controllers/moga-pro-controller/
  * http://html5gamepad.com/
+ * https://developer.mozilla.org/en-US/docs/Web/API/Gamepad_API/Using_the_Gamepad_API
+ * https://github.com/MozVR/gamepad-plus (needs local build?)
  * 
 
 ## Installing
