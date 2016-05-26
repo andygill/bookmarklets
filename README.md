@@ -6,6 +6,10 @@ My collection of [bookmarklets](https://en.wikipedia.org/wiki/Bookmarklet)
 
 Install polyfill to convert the non-standard output of the Moga Mega controller into the standard, for usage in web games.
 
+ * Moga Pro Controller http://www.mogaanywhere.com/controllers/moga-pro-controller/
+ * http://html5gamepad.com/
+ * 
+
 ## Installing
 
  * http://www.howtogeek.com/189358/beginner-geek-how-to-use-bookmarklets-on-any-device/
